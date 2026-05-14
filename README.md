@@ -8,6 +8,7 @@
 현재 진행 중인 상세 과제:
 
 - `access_log_improvement/`: 센터 출입기록 개선안
+- `se_change_agent/`: SE Change Agent 아키텍처 설계 문서
 
 하위 폴더 주요 문서:
 
@@ -15,3 +16,4 @@
 - [02_form_and_data.md](/f:/projects/persona/idc_automation/access_log_improvement/02_form_and_data.md)
 - [03_automation_and_followup.md](/f:/projects/persona/idc_automation/access_log_improvement/03_automation_and_followup.md)
 - [04_build_tasks.md](/f:/projects/persona/idc_automation/access_log_improvement/04_build_tasks.md)
+- [se_change_agent/README.md](se_change_agent/README.md)
